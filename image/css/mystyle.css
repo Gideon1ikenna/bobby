@@ -1,0 +1,66 @@
+h1{
+    text-align: center;
+    color:black;
+}
+button{
+
+    color: white;
+    padding: 6px;
+    margin-right: 0px;
+    padding-right:15px;
+    margin-left: px;
+    background-color:blue;
+    border-color: blue;
+}
+#but{
+    background-color: blueviolet;
+    color:antiquewhite;
+    margin-left: 450px;#
+    padding: 10px 10px;
+}
+
+ .image-div{
+    background-image: url(c:/Users/HP/Desktop/image/image/photo-1512273222628-4daea6e55abb.jpg);
+    background-size:cover;
+    background-position:4000px;
+    padding-bottom: 200px;
+    padding-left: 50px;
+    padding-right:10px ;
+    padding-top:70px ;
+
+}
+.myimg{margin-top: 5px;
+    margin-right: 100px;
+}
+#mydiv{
+    column-count: 3;
+    text-align: center;
+    display: flex;
+}
+
+.div2{
+
+    text-align: center;
+}
+.k{
+    text-align: center;
+    margin-right: 800px;
+    display: block;
+    justify-content: first baseline;
+}
+.b2{
+    margin-left: 25px;
+   
+    border: none solid cyan;
+
+}
+.mybut{
+    border-color: cyan;
+    color: aqua;
+    text-align: center;
+    margin-left: 600px;
+}
+a{
+    color: cyan;
+}
+    
